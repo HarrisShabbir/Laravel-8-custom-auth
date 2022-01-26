@@ -12,4 +12,13 @@
 Coming soon
 1. Yajra Datatable
 2. Jwt Auth for Api Implementation
-3. DOMPDF Generator
+
+
+How to setup?
+
+1. Clone
+2. Composer update or Composer install
+3. php aritsan migrate
+4. php artisan db:seed
+5. php artisan optimize:clear
+6. Enjoy
