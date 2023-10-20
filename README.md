@@ -1,3 +1,5 @@
+https://github.com/HarrisShabbir/Laravel-8-custom-auth/public/
+
 # Laravel-8-custom-auth
 
 
